@@ -1,6 +1,3 @@
-Here's a tailored summary for your LinkedIn profile that highlights your background, skills, and aspirations:
-
----
 
 ### 👋 Hi, I'm Abdalla Elkilany!
 
