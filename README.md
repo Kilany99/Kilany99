@@ -50,3 +50,10 @@ I'm actively expanding my knowledge of **software engineering**, focusing on **A
 ### 🌍 Let’s Connect!
 Feel free to explore my projects and connect with me if you're interested in collaboration or sharing knowledge about **AI**, **software development**, or **web technologies**.
 
+## Stats
+![Kilany99's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kilany99&show_icons=true&hide_title=true&count_private=true&hide=prs)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kilany99&layout=compact&hide=html)
+
+
+
