@@ -40,7 +40,9 @@ The backend of the system is built using ASP.NET Core to provide a RESTful API t
 The frontend is developed using Angular, providing an intuitive user interface for both customers and admins. The application interacts with the backend API for tasks like parking space display, reservations, and payment.
 
 3. Kotlin Mobile App:
-A Kotlin-based Android mobile app offers all the features of the web application in a mobile-first design. The app allows users to interact with the parking system, including browsing available spaces, making reservations, and managing their accounts.- **Autonomous Obstacle-Avoidance Vehicle**: Implemented a **Q-learning** algorithm for obstacle avoidance in an autonomous vehicle, showcasing my interest in AI and robotics.
+A Kotlin-based Android mobile app offers all the features of the web application in a mobile-first design. The app allows users to interact with the parking system, including browsing available spaces, making reservations, and managing their accounts.
+
+- **Autonomous Obstacle-Avoidance Vehicle**: Implemented a **Q-learning** algorithm for obstacle avoidance in an autonomous vehicle, showcasing my interest in AI and robotics.
 
 ### 🌱 Currently Learning
 I'm actively expanding my knowledge of **software engineering**, focusing on **AI model evaluation**, **testing**, and **advanced software development practices**. My goal is to continue building impactful projects that solve real-world problems through technology.
