@@ -116,7 +116,12 @@ Feel free to explore my repositories and connect with me if you're interested in
 
 ### 📊 GitHub Stats
 
-![Kilany99's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kilany99&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark&include_all_commits=true)
+![Kilany99's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kilany99&show_icons=true&hide_title=true&count_private=true&theme=dark&include_all_commits=true&include_all_PRs=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kilany99&layout=compact&hide=html&theme=dark)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Kilany99)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
 ```
