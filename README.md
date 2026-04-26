@@ -1,8 +1,7 @@
 
 ### 👋 Hi there, I'm Abdalla Elkilany!
 
-I'm a passionate **Software Engineer** with a deep interest in **web development**, **AI**, and crafting robust **software solutions**. As a freelance developer, I have hands-on experience in building scalable, full-stack web applications and delving into deep learning systems. Currently, I'm focused on expanding my expertise in **AI models evaluation** while working on exciting freelance projects.
-
+.NET Backend Engineer with 2+ years of experience building production-grade systems, specializing in payment integrations, business-critical backend services, and scalable system design. Experienced in .NET Core, microservices, and event-driven architectures with hands-on ownership of core modules such as checkout systems, pricing engines, and real-time order processing platforms. Proven ability to deliver high-impact features in cloud-based enterprise and e-commerce systems.
 ---
 
 ### 🛠️ My Toolkit & Expertise
